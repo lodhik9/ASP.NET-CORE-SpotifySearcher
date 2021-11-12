@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": false,
+    "target": "ES5",
+    "outFile": "script.js"
+    
+  }
+}
